@@ -1,0 +1,7 @@
+C:\Projetos\AppNumbers\bin\Debug\AppNumbers.exe.config
+C:\Projetos\AppNumbers\bin\Debug\AppNumbers.exe
+C:\Projetos\AppNumbers\bin\Debug\AppNumbers.pdb
+C:\Projetos\AppNumbers\obj\Debug\AppNumbers.csprojAssemblyReference.cache
+C:\Projetos\AppNumbers\obj\Debug\AppNumbers.csproj.CoreCompileInputs.cache
+C:\Projetos\AppNumbers\obj\Debug\AppNumbers.exe
+C:\Projetos\AppNumbers\obj\Debug\AppNumbers.pdb
